@@ -11,7 +11,7 @@ This program processes flow log data, maps each row to a tag based on a lookup t
 
 # Requirements
 1. Python 3.6 or higher.
-2. Input flow log file (flow_log.txt).
+2. Input flow log file (flow_logs.txt).
 3. Input lookup table file (lookup_table.csv).
 
 # Assumptions
